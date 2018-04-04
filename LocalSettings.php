@@ -6614,6 +6614,7 @@ $wgConf->settings = array(
 	'wgDefaultSkin' => array(
 		'default' => 'vector',
 		'appswiki' => 'metrolook',
+		'avalicearchiveswiki' => 'timeless',
 		'bdorpwiki' => 'erudite',
 		'claneuphoriawiki' => 'gamepress',
 		'corydoctorowwiki' => 'timeless',
